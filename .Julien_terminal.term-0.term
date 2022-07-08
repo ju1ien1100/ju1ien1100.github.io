@@ -1,0 +1,14 @@
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ ls .. 
+[0m[01;34mBo[0m  [01;34mEiko[0m  [01;34mIan[0m  [01;34mJoshua[0m  [01;34mJulien[0m  [01;34mRobert[0m  [01;34mSasha[0m
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git init
+Initialized empty Git repository in /projects/39b268b1-0e75-4ebd-9cf2-691243b37f4a/Project/github_sites/Julien/.git/
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ touch README>[K.md
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ echo "[K'some message' > README.md
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ cat README>m[K[K.md
+some message
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git in^C
+git: 'in^C' is not a git command. See 'git --help'.
+
+The most similar command is
+	init
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ g

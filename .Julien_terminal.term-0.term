@@ -11,4 +11,41 @@ git: 'in^C' is not a git command. See 'git --help'.
 
 The most similar command is
 	init
-(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ g
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git add _[K-A
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git commit -m 'first commit!'
+[master (root-commit) 6e0adbc] first commit!
+ 3 files changed, 15 insertions(+)
+ create mode 100644 .Julien_terminal.term-0.term
+ create mode 100644 Julien_terminal.term
+ create mode 100644 README.md
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git remote add origin https://github.com/ju1ien1100/ju1ien1100.github.io.git
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git branch -M main
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git push
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git remote add origin https://github.com/ju1ien1100/ju1ien1100.github.io.git[Kgit push --set-upstream origin main[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit push --set-upstream origin main
+Username for 'https://github.com': ju==    julien.roy22@outlook.com
+Password for 'https://julien.roy22@outlook.com@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/ju1ien1100/ju1ien1100.github.io.git/'
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git push --set-upstream origin main
+Username for 'https://github.com': julien.roy22@outlook.com
+Password for 'https://julien.roy22@outlook.com@github.com': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 638 bytes | 638.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/ju1ien1100/ju1ien1100.github.io.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git push
+Username for 'https://github.com': julienr .roy22@outlook.com
+Password for 'https://julien.roy22@outlook.com@github.com': 
+Everything up-to-date
+(base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ (base) ]0;~/Project/github_sites/Julien[01;34m~/Project/github_sites/Julien[00m$ git 
